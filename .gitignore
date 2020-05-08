@@ -1,0 +1,6 @@
+/node_modules/
+/public/build/
+/public/fontawesome-free-5.11.2-web
+
+.prettierrc
+.DS_Store
